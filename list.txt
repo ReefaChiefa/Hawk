@@ -1,0 +1,3 @@
+https://github.com/ReefaChiefa/Hawk/raw/main/backupfile.exe
+https://github.com/ReefaChiefa/Hawk/raw/main/hawksv.exe
+https://github.com/ReefaChiefa/Hawk/raw/main/server.exe
